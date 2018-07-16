@@ -1,0 +1,14 @@
+C:\Users\EXL920\source\repos\pocs-ms-orleans\MonthlyFollowUp\MonthlyFollowUp.Web\bin\Debug\netcoreapp2.1\MonthlyFollowUp.Web.deps.json
+C:\Users\EXL920\source\repos\pocs-ms-orleans\MonthlyFollowUp\MonthlyFollowUp.Web\bin\Debug\netcoreapp2.1\MonthlyFollowUp.Web.runtimeconfig.json
+C:\Users\EXL920\source\repos\pocs-ms-orleans\MonthlyFollowUp\MonthlyFollowUp.Web\bin\Debug\netcoreapp2.1\MonthlyFollowUp.Web.runtimeconfig.dev.json
+C:\Users\EXL920\source\repos\pocs-ms-orleans\MonthlyFollowUp\MonthlyFollowUp.Web\bin\Debug\netcoreapp2.1\MonthlyFollowUp.Web.dll
+C:\Users\EXL920\source\repos\pocs-ms-orleans\MonthlyFollowUp\MonthlyFollowUp.Web\bin\Debug\netcoreapp2.1\MonthlyFollowUp.Web.pdb
+C:\Users\EXL920\source\repos\pocs-ms-orleans\MonthlyFollowUp\MonthlyFollowUp.Web\bin\Debug\netcoreapp2.1\MonthlyFollowUp.Interfaces.dll
+C:\Users\EXL920\source\repos\pocs-ms-orleans\MonthlyFollowUp\MonthlyFollowUp.Web\bin\Debug\netcoreapp2.1\MonthlyFollowUp.Interfaces.pdb
+C:\Users\EXL920\source\repos\pocs-ms-orleans\MonthlyFollowUp\MonthlyFollowUp.Web\obj\Debug\netcoreapp2.1\MonthlyFollowUp.Web.csproj.CoreCompileInputs.cache
+C:\Users\EXL920\source\repos\pocs-ms-orleans\MonthlyFollowUp\MonthlyFollowUp.Web\obj\Debug\netcoreapp2.1\MonthlyFollowUp.Web.AssemblyInfoInputs.cache
+C:\Users\EXL920\source\repos\pocs-ms-orleans\MonthlyFollowUp\MonthlyFollowUp.Web\obj\Debug\netcoreapp2.1\MonthlyFollowUp.Web.AssemblyInfo.cs
+C:\Users\EXL920\source\repos\pocs-ms-orleans\MonthlyFollowUp\MonthlyFollowUp.Web\obj\Debug\netcoreapp2.1\MonthlyFollowUp.Web.csproj.CopyComplete
+C:\Users\EXL920\source\repos\pocs-ms-orleans\MonthlyFollowUp\MonthlyFollowUp.Web\obj\Debug\netcoreapp2.1\MonthlyFollowUp.Web.dll
+C:\Users\EXL920\source\repos\pocs-ms-orleans\MonthlyFollowUp\MonthlyFollowUp.Web\obj\Debug\netcoreapp2.1\MonthlyFollowUp.Web.pdb
+C:\Users\EXL920\source\repos\pocs-ms-orleans\MonthlyFollowUp\MonthlyFollowUp.Web\obj\Debug\netcoreapp2.1\MonthlyFollowUp.Web.csprojAssemblyReference.cache

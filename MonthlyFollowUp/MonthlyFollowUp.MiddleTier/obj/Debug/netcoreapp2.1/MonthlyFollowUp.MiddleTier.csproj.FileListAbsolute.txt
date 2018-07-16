@@ -1,0 +1,16 @@
+C:\Users\EXL920\source\repos\pocs-ms-orleans\MonthlyFollowUp\MonthlyFollowUp.MiddleTier\bin\Debug\netcoreapp2.1\MonthlyFollowUp.MiddleTier.deps.json
+C:\Users\EXL920\source\repos\pocs-ms-orleans\MonthlyFollowUp\MonthlyFollowUp.MiddleTier\bin\Debug\netcoreapp2.1\MonthlyFollowUp.MiddleTier.runtimeconfig.json
+C:\Users\EXL920\source\repos\pocs-ms-orleans\MonthlyFollowUp\MonthlyFollowUp.MiddleTier\bin\Debug\netcoreapp2.1\MonthlyFollowUp.MiddleTier.runtimeconfig.dev.json
+C:\Users\EXL920\source\repos\pocs-ms-orleans\MonthlyFollowUp\MonthlyFollowUp.MiddleTier\bin\Debug\netcoreapp2.1\MonthlyFollowUp.MiddleTier.dll
+C:\Users\EXL920\source\repos\pocs-ms-orleans\MonthlyFollowUp\MonthlyFollowUp.MiddleTier\bin\Debug\netcoreapp2.1\MonthlyFollowUp.MiddleTier.pdb
+C:\Users\EXL920\source\repos\pocs-ms-orleans\MonthlyFollowUp\MonthlyFollowUp.MiddleTier\bin\Debug\netcoreapp2.1\MonthlyFollowUp.Implementations.dll
+C:\Users\EXL920\source\repos\pocs-ms-orleans\MonthlyFollowUp\MonthlyFollowUp.MiddleTier\bin\Debug\netcoreapp2.1\MonthlyFollowUp.Interfaces.dll
+C:\Users\EXL920\source\repos\pocs-ms-orleans\MonthlyFollowUp\MonthlyFollowUp.MiddleTier\bin\Debug\netcoreapp2.1\MonthlyFollowUp.Implementations.pdb
+C:\Users\EXL920\source\repos\pocs-ms-orleans\MonthlyFollowUp\MonthlyFollowUp.MiddleTier\bin\Debug\netcoreapp2.1\MonthlyFollowUp.Interfaces.pdb
+C:\Users\EXL920\source\repos\pocs-ms-orleans\MonthlyFollowUp\MonthlyFollowUp.MiddleTier\obj\Debug\netcoreapp2.1\MonthlyFollowUp.MiddleTier.csproj.CoreCompileInputs.cache
+C:\Users\EXL920\source\repos\pocs-ms-orleans\MonthlyFollowUp\MonthlyFollowUp.MiddleTier\obj\Debug\netcoreapp2.1\MonthlyFollowUp.MiddleTier.AssemblyInfoInputs.cache
+C:\Users\EXL920\source\repos\pocs-ms-orleans\MonthlyFollowUp\MonthlyFollowUp.MiddleTier\obj\Debug\netcoreapp2.1\MonthlyFollowUp.MiddleTier.AssemblyInfo.cs
+C:\Users\EXL920\source\repos\pocs-ms-orleans\MonthlyFollowUp\MonthlyFollowUp.MiddleTier\obj\Debug\netcoreapp2.1\MonthlyFollowUp.MiddleTier.csproj.CopyComplete
+C:\Users\EXL920\source\repos\pocs-ms-orleans\MonthlyFollowUp\MonthlyFollowUp.MiddleTier\obj\Debug\netcoreapp2.1\MonthlyFollowUp.MiddleTier.dll
+C:\Users\EXL920\source\repos\pocs-ms-orleans\MonthlyFollowUp\MonthlyFollowUp.MiddleTier\obj\Debug\netcoreapp2.1\MonthlyFollowUp.MiddleTier.pdb
+C:\Users\EXL920\source\repos\pocs-ms-orleans\MonthlyFollowUp\MonthlyFollowUp.MiddleTier\obj\Debug\netcoreapp2.1\MonthlyFollowUp.MiddleTier.csprojAssemblyReference.cache

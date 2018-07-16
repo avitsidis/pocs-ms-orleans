@@ -1,0 +1,11 @@
+C:\Users\EXL920\source\repos\pocs-ms-orleans\MonthlyFollowUp\MonthlyFollowUp.Implementations\bin\Debug\netcoreapp2.1\MonthlyFollowUp.Implementations.deps.json
+C:\Users\EXL920\source\repos\pocs-ms-orleans\MonthlyFollowUp\MonthlyFollowUp.Implementations\bin\Debug\netcoreapp2.1\MonthlyFollowUp.Implementations.dll
+C:\Users\EXL920\source\repos\pocs-ms-orleans\MonthlyFollowUp\MonthlyFollowUp.Implementations\bin\Debug\netcoreapp2.1\MonthlyFollowUp.Implementations.pdb
+C:\Users\EXL920\source\repos\pocs-ms-orleans\MonthlyFollowUp\MonthlyFollowUp.Implementations\bin\Debug\netcoreapp2.1\MonthlyFollowUp.Interfaces.dll
+C:\Users\EXL920\source\repos\pocs-ms-orleans\MonthlyFollowUp\MonthlyFollowUp.Implementations\bin\Debug\netcoreapp2.1\MonthlyFollowUp.Interfaces.pdb
+C:\Users\EXL920\source\repos\pocs-ms-orleans\MonthlyFollowUp\MonthlyFollowUp.Implementations\obj\Debug\netcoreapp2.1\codegen\MonthlyFollowUp.Implementations.csproj.CoreCompileInputs.cache
+C:\Users\EXL920\source\repos\pocs-ms-orleans\MonthlyFollowUp\MonthlyFollowUp.Implementations\obj\Debug\netcoreapp2.1\codegen\MonthlyFollowUp.Implementations.AssemblyInfoInputs.cache
+C:\Users\EXL920\source\repos\pocs-ms-orleans\MonthlyFollowUp\MonthlyFollowUp.Implementations\obj\Debug\netcoreapp2.1\codegen\MonthlyFollowUp.Implementations.AssemblyInfo.cs
+C:\Users\EXL920\source\repos\pocs-ms-orleans\MonthlyFollowUp\MonthlyFollowUp.Implementations\obj\Debug\netcoreapp2.1\codegen\MonthlyFollowUp.Implementations.csproj.CopyComplete
+C:\Users\EXL920\source\repos\pocs-ms-orleans\MonthlyFollowUp\MonthlyFollowUp.Implementations\obj\Debug\netcoreapp2.1\codegen\MonthlyFollowUp.Implementations.dll
+C:\Users\EXL920\source\repos\pocs-ms-orleans\MonthlyFollowUp\MonthlyFollowUp.Implementations\obj\Debug\netcoreapp2.1\codegen\MonthlyFollowUp.Implementations.pdb
